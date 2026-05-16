@@ -65,3 +65,16 @@ The workflow followed these main steps:
 ├── report.pdf
 │
 └── README.md
+
+```
+---
+
+## 5. Plots
+![Rule 30 - Synchronus vs Sequential](plots/1.png)
+![Rule 110 - Synchronus vs Sequential](plots/2.png)
+![Alive Cell Time Series](plots/3.png)
+![Evolution Snapshots](plots/4.png)
+![Density Comparison](plots/5.png)
+![Plot 17](plots/6.png)
+![Plot 17](plots/7.png)
+
